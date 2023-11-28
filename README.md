@@ -1,2 +1,3 @@
-# overlayfs-syncher
-offline sync (merge) overlayfs's upper layer to lower layer
+# OverlayFS-Syncher
+Offline sync (merge) overlayfs's upper layer to lower layer
+
